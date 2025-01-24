@@ -1,4 +1,4 @@
-# <span class="typewriter">Hi there, I'm Saad Makhdoom! 👋</span>
+# <span class="typewriter">Hi there, I'm Saad Ahmed! 👋</span>
 
 Welcome to my GitHub profile! I'm a passionate developer with a diverse skill set in various technologies. Here's a little bit about me and my journey in programming.
 
